@@ -29,6 +29,5 @@ Utiliar S3, Glue e QuickSight
 
 # *Resultados*
 
-![Alt Text](![Alt Text](![Alt Text](https://drive.google.com/uc?export=view&id=1zBn7_cOUQq1mSMzj-QLg0g5QvQmsw4Pv)
-)
+(https://github.com/andcore20/Fifteen_Hundred_Curso_Dados/assets/83873679/7897381e-5085-4c6c-acd6-73ddf32df089
 
